@@ -193,4 +193,4 @@ Create a Streamlit version of key insights
 
 
 👨‍💻 Author
-Punati Venkata Sai Ravish
+Janani M
